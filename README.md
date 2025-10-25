@@ -7,3 +7,11 @@
 6. [Lab 06:](https://colab.research.google.com/drive/1Z_KKmrI9ZwHS2tv3cSX_N7AV1jdM_kny?usp=sharing) Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07:](https://colab.research.google.com/drive/1XSHZ99Y_tSxHTND8X2EJlVtnpBUlQD24?usp=sharing) Implement Support Vector Machine using Breast Cancer Data
 8. [Lab 08:](https://colab.research.google.com/drive/1t5YeLUn6UsfDqVb9KRJ8J_8r1sTZuv9Z?usp=sharing) Implement Decision Tree Classifier using Lending Club Data
+
+# AIML Course Project
+[Project Link](https://colab.research.google.com/drive/1kKu_AI-7z5j7sqADB-HTkbZcxqWTBXCE?usp=sharing): Model development using Kaggle’s Amazon Employee Access Challenge dataset
+## Description :
+• Collaborated with a teammate to develop a model using Kaggle’s dataset, achieving 94.08% to 100% accuracy<br>
+• Analyzed 2010-2011 data to automate access approvals based on roles and resource codes<br>
+• Evaluated multiple models, with SVM reaching 94.54% validation accuracy and minimal error gap<br>
+• Knowledge Applied: Data analysis, model evaluation, Python, SVM and dataset processing<br>
